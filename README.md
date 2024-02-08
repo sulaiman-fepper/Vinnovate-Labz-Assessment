@@ -11,4 +11,4 @@ A new Flutter project.
 4. Pagination control is done with detecting the end of the page and load more data
 5. The api data is Fetched 8 per page because of implementation of pagination
 6. Provider is used As State management tool
-7. MVVC architecture is used for above code
+7. MVVM architecture is used for above code
