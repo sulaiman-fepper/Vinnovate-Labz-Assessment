@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117652060349",
+    "project_id": "assessment-3d660",
+    "storage_bucket": "assessment-3d660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117652060349:android:908d526737783af9c5dfd4",
+        "android_client_info": {
+          "package_name": "com.sulaiman.assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf60TJt_jSFe_tAhK2f7JJ0Tf1TEXYqDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
